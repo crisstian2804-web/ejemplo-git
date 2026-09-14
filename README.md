@@ -5,4 +5,5 @@ instrucciones para el proyecto
 4. Realiza un commit 
 5. Actualiza un repositorio github (push)
 6. Ejecuta el proyecto con python main.py
-7.Probar el sistema 
+7. Probar el sistema 
+8. Uso de gitgraph
